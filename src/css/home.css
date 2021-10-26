@@ -1,0 +1,26 @@
+.about-container{
+    text-align: center;
+    border: 10px double #171d1C;    
+    margin: 20px 5%;
+    background-color: var(--content-bg);
+}
+
+.image-container{
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 50%;
+    width: 500px;
+    overflow: hidden;
+}
+
+.image-container ::after{
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+.image-container img{
+    max-height: 100%;
+    max-width: 100%;
+}

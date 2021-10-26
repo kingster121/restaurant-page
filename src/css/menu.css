@@ -1,0 +1,26 @@
+:root{
+    --content-bg:#5FBFF9;
+}
+
+.food{
+    text-align: center;
+    border: 10px double #171d1C;    
+    margin: 20px 5%;
+    background-color: var(--content-bg);
+}
+
+.food img{
+    max-width:80%;
+}
+
+.food p{
+    width: 80%;
+    margin:auto;
+}
+
+.drink{
+    text-align: center;
+    border: 10px double #171d1C;    
+    margin: 20px 5%;
+    background-color: var(--content-bg);
+}

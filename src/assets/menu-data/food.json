@@ -1,0 +1,16 @@
+[
+    {
+        "category":"food",
+        "foodName":"Spaghetti",
+        "image":"assets/img/Spaghetti.jpg",
+        "price":"$5",
+        "description":"Best spaghetti in town with ingredients bought from local farmers."
+    },
+    {
+        "category":"food",
+        "foodName":"Berry",
+        "image":"assets/img/Blueberry.jpg",
+        "price":"$7",
+        "description":"Berry contains vitamin B and is helpful for a growing child. Promotes brain activity and stimulate muscle growth."
+    }
+]
